@@ -7,7 +7,7 @@ const book = () => {
   return (
     <div>
       <Navbar />
-      <div className="flex justify-between">
+      <div className="flex justify-between mt-9">
         <Form />
         <div className="w-full">
           <div className="flex justify-around">
