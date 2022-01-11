@@ -2,7 +2,7 @@ import React from "react";
 
 const Form = () => {
   return (
-    <div>
+    <div className="ml-52">
       <form className="border-2 w-full px-5 py-8 bg-orange-100">
         <label className="font-bold text-xl">Check In</label>
         <br />
