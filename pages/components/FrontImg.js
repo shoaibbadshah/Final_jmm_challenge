@@ -5,7 +5,7 @@ import Link from "next/link";
 const FrontImg = () => {
   return (
     <div className="relative h-[300px] sm:h-[400px] lg:h-[500px] xl:h-[600px] 2xl:h-[700px]">
-      <Image src="/jmm.jpg" layout="fill" objectFit="cover" />
+      <Image src="/jmm.jpg" alt="front image" layout="fill" objectFit="cover" />
       <div className="absolute top-1/3 ml-9 sm:ml-14 md:ml-20 xl:ml-32 2xl:ml-36">
         <h1 className="text-white text-sm sm:text-lg md:text-xl lg:text-2xl xl:text-3xl 2xl:text-4xl mb-5 shadow-black">
           In the heart of

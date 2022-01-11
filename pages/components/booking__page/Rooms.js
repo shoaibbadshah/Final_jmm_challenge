@@ -7,6 +7,7 @@ const Rooms = () => {
       <div className="ml-28 p-10">
         <Image
           src={"/room.jpg"}
+          alt="booking"
           width={750}
           height={350}
           objectFit="cover"

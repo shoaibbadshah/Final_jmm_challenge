@@ -20,7 +20,7 @@ const Form = () => {
           className="bg-white border-2 w-96 px-7 py-3 mt-4 mb-4 text-yellow-500"
         />
         <br />
-        <label className="font-bold text-xl" for="cars">
+        <label className="font-bold text-xl" htmlFor="cars">
           Rooms
         </label>
         <br />
@@ -36,7 +36,7 @@ const Form = () => {
         </select>
         <br />
         <br />
-        <label className="font-bold text-xl" for="cars">
+        <label className="font-bold text-xl" htmlFor="cars">
           Adults
         </label>
         <br />
@@ -52,7 +52,7 @@ const Form = () => {
         </select>
         <br />
         <br />
-        <label className="font-bold text-xl" for="cars">
+        <label className="font-bold text-xl" htmlFor="cars">
           Childrens
         </label>
         <br />
