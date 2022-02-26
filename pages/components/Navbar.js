@@ -13,18 +13,18 @@ const Navbar = () => {
       <MenuIcon className="w-5 h-5 text-yellow-500 mt-5 md:hidden" />
 
       <div className="hidden md:flex justify-around pt-6">
-        <a href="/" className="px-10 border-r-2 text-lg font-semibold">
+        <p href="/" className="px-10 border-r-2 text-lg font-semibold">
           Home
-        </a>
-        <a href="/" className="px-10 border-r-2 text-lg font-semibold">
+        </p>
+        <p href="/" className="px-10 border-r-2 text-lg font-semibold">
           About Us
-        </a>
-        <a href="/" className="px-10 border-r-2 text-lg font-semibold">
+        </p>
+        <p href="/" className="px-10 border-r-2 text-lg font-semibold">
           Services
-        </a>
-        <a href="/" className="px-10 text-lg font-semibold">
+        </p>
+        <p href="/" className="px-10 text-lg font-semibold">
           Contact Us
-        </a>
+        </p>
       </div>
     </div>
   );

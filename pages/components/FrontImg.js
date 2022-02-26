@@ -19,7 +19,7 @@ const FrontImg = () => {
       </div>
       <div className="absolute top-2 right-1">
         <Link href="/book">
-          <a className="bg-yellow-500 px-8 py-6 text-2xl">Book Now</a>
+          <p className="bg-yellow-500 px-8 py-6 text-2xl">Book Now</p>
         </Link>
       </div>
     </div>
