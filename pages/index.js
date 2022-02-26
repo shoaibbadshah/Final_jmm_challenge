@@ -14,8 +14,6 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1>shoaib</h1>
-        {/* <Navbar />
-        <FrontImg /> */}
       </main>
     </div>
   );
